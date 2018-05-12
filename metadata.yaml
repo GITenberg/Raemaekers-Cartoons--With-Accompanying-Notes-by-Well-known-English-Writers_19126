@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4533
     wikipedia: http://en.wikipedia.org/wiki/Louis_Raemaekers
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19126#Raemaekers-Cartoons--With-Accompanying-Notes-by-Well-known-English-Writers
 gutenberg_issued: '2006-08-26'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,28 @@
+_repo: Raemaekers-Cartoons--With-Accompanying-Notes-by-Well-known-English-Writers_19126
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Raemaekers, Louis
+    birthdate: 1869
+    deathdate: 1956
+    gutenberg_agent_id: '4533'
+    url: http://www.gutenberg.org/2009/agents/4533
+    wikipedia: http://en.wikipedia.org/wiki/Louis_Raemaekers
+description: ''
+gutenberg_issued: '2006-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Raemaekers, Louis, 1869-1956'
+- !lcsh 'World War, 1914-1918 -- Caricatures and cartoons'
+- !lcc 'D501'
+title: 'Raemaekers'' Cartoons: With Accompanying Notes by Well-known English Writers'
+url: http://www.gutenberg.org/ebooks/19126
